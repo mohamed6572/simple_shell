@@ -21,7 +21,7 @@ This program was written entirely in C Language.
 </p>
 
 ## COPYRIGHT
-Copyright (C) 2022 by [**Mohamed hany**]([https://github.com/mohamed6572]) </br>
+Copyright (C) 2022 by [**Mohamed hany**]) </br>
 All rights reserved
 
 
